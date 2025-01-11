@@ -1,0 +1,17 @@
+.flashcard-form {
+    margin: 1rem;
+}
+
+.flashcard-form__input {
+    width: 80%;
+    height: 3rem;
+    border-radius: 5px;
+    padding-left: 1rem;
+    border: 2px solid #055C9D;
+    font-size: 16px;
+}
+
+.flashcard-form__button {
+    margin: 1rem;
+    background-color: #0E86D4;
+}

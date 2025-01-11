@@ -1,0 +1,22 @@
+.flashcard-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem
+}
+
+.flashcard-list-item {
+    border: 3px solid #055C9D;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+    width: 60%;
+    display: block;
+    background-color: #EBF5F7;
+}
+
+.flashcard-list-item-button {
+    margin-bottom: 1rem;
+    background-color: #0E86D4;
+}

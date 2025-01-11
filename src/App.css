@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: #EBF5F7;
+}
+
+h1 {
+  color: #055C9D;
+}
+
+.render-button {
+  background-color: #0E86D4;
+  margin: 1rem;
+}
